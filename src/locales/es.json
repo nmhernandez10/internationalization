@@ -5,7 +5,7 @@
 	"City": "Ciudad",
 	"PublicationDate": "Fecha de publicación",
 	"Views": "No. Visitas",
-    "DaysAgo": "Hace {num} {days}",
+    "DaysAgo": "hace {num} {days}",
     "Days": "días",
     "Day": "día"
 }

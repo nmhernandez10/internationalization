@@ -7,8 +7,6 @@ import localeEsMessages from "./locales/es";
 import localeEnMessages from "./locales/en";
 import JobsList from "./components/jobsList";
 
-addLocaleData(esLocaleData);
-
 // Configuración para determinar el lenguaje del navegador y acoplar el contenido a ello
 
 var localeLanguage = ""
